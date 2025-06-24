@@ -7,5 +7,9 @@ package latihan3susulan;
  */
 
 public class BangunDatar {
-    // Class kosong sesuai instruksi (hanya komentar biodata)
+    // Atribut bertipe desimal
+    double alas;
+    double tinggi;
+    double jariJari;
+    double hasil;
 }
